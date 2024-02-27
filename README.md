@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 sh <br>
 cd my-folder <br>
-git clone https://github.com/
+git clone https://github.com/mohamedgamaleldin999999/Try-webpack-for-react-and-ruby
 
 ### Install
 
@@ -124,7 +124,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/).
+Feel free to check the [issues page](https://github.com/mohamedgamaleldin999999/Try-webpack-for-react-and-ruby/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
