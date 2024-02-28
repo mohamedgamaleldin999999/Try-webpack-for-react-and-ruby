@@ -1,17 +1,3 @@
-// const initState = '';
-
-// const greetingReducer = (state = initState, action) => {
-//   switch (action.type) {
-//     case 'GET_GREETING':
-//       return action.payload;
-//     default:
-//       return state;
-//   }
-// };
-
-
-// export default greetingReducer;
-
 import { combineReducers } from 'redux';
 
 
